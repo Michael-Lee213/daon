@@ -39,7 +39,8 @@
   5. Use case Diagram
 
 # ■ 프로젝트 진행 관리 
-![image](https://github.com/user-attachments/assets/e9f1e491-7ddd-49cc-9423-8a23135b8fa2)
+![image](https://github.com/user-attachments/assets/7a387498-caf7-4d97-8169-2805c6f06ad8)
+
 
 <br>
 
