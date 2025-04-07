@@ -60,13 +60,11 @@
 <br>
 
 
-# ■ Data flow Diagram
-<div>
-  <img src="cos/static/images/Data flow.webp" style="width:auto; height:600px; border-radius: 5px; border: 2px solid black;">
-<br>
-</div>
+# ■ ER Diagram
+
+![image](https://github.com/user-attachments/assets/5df864e9-ffbd-4f08-bad8-929d116969a9)
+
 
 # ■ Use case Diagram
-<div>
-  <img src="cos/static/images/user flow.webp" style="width:600px; height:400px; border-radius: 5px; border: 2px solid black;"><br>
-</div>
+![image](https://github.com/user-attachments/assets/843643b6-2fc0-4964-a7cd-11ece5f0cb21)
+
