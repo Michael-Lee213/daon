@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Michael-Lee213/daon/blob/main/66968-OCD6GN-640.jpg?raw=true" width="800"/>
+  <img src="https://github.com/Michael-Lee213/daon/blob/main/3562900.jpg?raw=true" width="800"/>
 </p>
 
 # ■ 프로젝트명: daon
