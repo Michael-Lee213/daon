@@ -41,7 +41,7 @@
 ---
 
 ## 📋 프로젝트 진행 관리  
-![프로젝트 진행 관리](https://raw.githubusercontent.com/Michael-Lee213/daon/main/KakaoTalk_20250407_172112826_12.jpg)
+![image](https://github.com/user-attachments/assets/e711f654-7cd1-40d8-8636-98c97f8ba907)
 
 ---
 
