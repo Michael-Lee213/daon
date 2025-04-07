@@ -42,12 +42,10 @@
 ![image](https://github.com/user-attachments/assets/7a387498-caf7-4d97-8169-2805c6f06ad8)
 
 
-<br>
 
 # ■ Stacks 
 ![image](https://github.com/user-attachments/assets/49acdfbd-33a6-41b8-a9c9-83a5575f6c94)
 
-<br>
 
 # ■ 화면 구성 
 
