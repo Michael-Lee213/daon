@@ -50,12 +50,12 @@
 # ■ 화면 구성 
 
   <h3> ▪ 상품 상세 페이지</h3>
-![image](https://github.com/user-attachments/assets/f4445c49-27bd-4f9f-89b3-87ad3d7a85e8)
+![image](https://github.com/user-attachments/assets/a4d76a83-8f6b-4891-b861-52cedb671438)
+
 
 
   <h3> ▪ 장바구니 페이지</h3>
-![image](https://github.com/user-attachments/assets/d532be2c-e20c-4489-b391-4f3b4ffbcccc)
-
+![image](https://github.com/user-attachments/assets/2d90fc35-6409-4d4e-8327-f7464d0fe106)
 
 <br>
 
