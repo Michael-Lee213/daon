@@ -1,4 +1,4 @@
-# Daon 데이터 분석 도서 서비스
+# ■ Daon 데이터 분석 도서 서비스
 
 <table>
   <thead>
@@ -9,7 +9,7 @@
   </thead>
   <tbody>
     <tr>
-      <td>개발 기간 🗓️</td>
+      <td>개발 기간 </td>
       <td>2024년 12월 05일 ~ 2024년 12월 20일</td>
     </tr>
     <tr>
@@ -30,7 +30,7 @@
 
 ---
 
-## 목차  
+## ■ 목차  
 1. 소개  
 2. 프로젝트 진행 관리  
 3. 사용 기술 스택 (Stacks)  
@@ -40,17 +40,17 @@
 
 ---
 
-## 📋 프로젝트 진행 관리  
+## ■ 프로젝트 진행 관리  
 ![image](https://github.com/user-attachments/assets/e711f654-7cd1-40d8-8636-98c97f8ba907)
 
 ---
 
-## 🛠️ 사용 기술 스택 (Stacks)  
+## ■ 사용 기술 스택 (Stacks)  
 ![기술 스택](https://github.com/user-attachments/assets/49acdfbd-33a6-41b8-a9c9-83a5575f6c94)
 
 ---
 
-## 화면 구성
+## ■ 화면 구성
 
 ### ▪ 상품 상세 페이지  
 ![상세 페이지](https://github.com/user-attachments/assets/a4d76a83-8f6b-4891-b861-52cedb671438)
@@ -60,11 +60,11 @@
 
 ---
 
-## ER Diagram  
+## ■ ER Diagram  
 ![ER Diagram](https://github.com/user-attachments/assets/5df864e9-ffbd-4f08-bad8-929d116969a9)
 
 ---
 
-## Use Case Diagram  
+## ■ Use Case Diagram  
 ![Use Case Diagram](https://raw.githubusercontent.com/Michael-Lee213/daon/main/KakaoTalk_20250407_172112826_24.jpg)
 
