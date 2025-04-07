@@ -49,31 +49,14 @@
 
 # ■ 화면 구성 
 
-<div style="display: flex; flex-direction: column; gap: 20px;">
-  <h3> ▪ 메인 화면 페이지</h3>
-  <div style="display: flex; align-items: center; gap: 20px;">
-    <img src="cos/static/images/main_1.png" alt="메인 화면 페이지" style="width:300px; height:200px; border-radius: 5px;">
-    <img src="cos/static/images/main_3.png" alt="메인 화면 페이지" style="width:300px; height:200px; border-radius: 5px;">
-  </div>
+  <h3> ▪ 상품 상세 페이지</h3>
+![image](https://github.com/user-attachments/assets/f4445c49-27bd-4f9f-89b3-87ad3d7a85e8)
 
-  <h3> ▪ 성분 추천 결과 페이지</h3>
-  <div style="display: flex; align-items: center; gap: 20px;">
-    <img src="cos/static/images/results.png" alt="성분 추천 결과 페이지" style="width:300px; height:200px; border-radius: 5px;">
-    <img src="cos/static/images/visualization_1.png" alt="추천 결과 시각화 페이지" style="width:300px; height:200px; border-radius: 5px;">
-  </div>
 
-  <h3> ▪ 추천 결과 시각화 페이지</h3>
-  <div style="display: flex; align-items: center; gap: 20px;">
-    <img src="cos/static/images/visualization_2.png" alt="추천 결과 시각화 페이지" style="width:600px; height:400px; border-radius: 5px;">
-  </div>
+  <h3> ▪ 장바구니 페이지</h3>
+![image](https://github.com/user-attachments/assets/d532be2c-e20c-4489-b391-4f3b4ffbcccc)
 
-  <h3> ▪ Chatbot</h3>
-  <div style="display: flex; align-items: center; gap: 20px;">
-    <img src="cos/static/images/chatbot_after_1.png" alt="chatbot" style="width:300px; height:200px; border-radius: 5px;">
-    <img src="cos/static/images/chatbot_after_2.png" alt="chatbot" style="width:300px; height:200px; border-radius: 5px;">
-  </div>
-  
-</div>
+
 <br>
 
 
