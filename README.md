@@ -39,9 +39,8 @@
   5. Use case Diagram
 
 # ■ 프로젝트 진행 관리 
-<div>
-  <img src="cos/static/images/Untitled_diagram_1.webp" style="width:600px; height:400px; border-radius: 5px;">
-</div>
+![image](https://github.com/user-attachments/assets/e9f1e491-7ddd-49cc-9423-8a23135b8fa2)
+
 <br>
 
 # ■ Stacks 
