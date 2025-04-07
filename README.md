@@ -65,5 +65,5 @@
 ---
 
 ## ■ Use Case Diagram  
-![Use Case Diagram](https://raw.githubusercontent.com/Michael-Lee213/daon/main/KakaoTalk_20250407_172112826_24.jpg)
+![image](https://github.com/user-attachments/assets/a39fbbc9-380b-461c-91b2-e7d7ae742e86)
 
