@@ -2,9 +2,6 @@
 
 ## ■ Daon 데이터 분석 도서 서비스 
 
-
- 사용자의 화장품 성분 데이터를 기반으로 맞춤형 추천 알고리즘을 개발하여 웹 서비스를 제공합니다.<br>
- 벡터 유사도 검색 기법을 활용해 사용자 경험을 개선하고 데이터 기반 의사 결정을 지원합니다.<br>
 <table>
   <thead>
     <tr>
@@ -32,12 +29,6 @@
     </tr>
   </tbody>
 </table>
-< 스킨케어 트랜드 파악 워드 클라우드 >
-<br>
-<div>
-  <img src="cos/static/images/keyword_1.webp" style="width:400px; height:300px; border-radius: 5px;">
-  <img src="cos/static/images/keyword_2.webp" style="width:400px; height:300px; border-radius: 5px;">
-</div>
 
 # ■ 목차 📚
   1. 소개
@@ -144,27 +135,3 @@
 <div>
   <img src="cos/static/images/user flow.webp" style="width:600px; height:400px; border-radius: 5px; border: 2px solid black;"><br>
 </div>
-
-# ■ Architecture
-<h3> ▪ Directory structure</h3><pre>
-📂cosmetic_project/<br>
-│──📂cos/<br>
-│   ├── init.py                       # Flask 애플리케이션 초기화<br>
-│   ├── word2vec_model.py             # Word2Vec 모델 학습 및 로드<br>
-│   ├── 📂data/                       # 화장품 성분 데이터 (CSV 등)<br>
-│   ├── 📂ingrements_faiss_index/     # FAISS 벡터 검색 인덱스 저장소<br>
-│   ├── 📂static/                     # CSS, JS 파일 등 정적 파일<br>
-│   ├── 📂templates/                  # HTML 템플릿<br>
-│   ├── 📂views/                      # Flask 라우팅 및 API 처리<br>
-│   │   ├── visualization_views.py     # 시각화 API<br>
-│   │   ├── search_views.py            # 검색 API (FAISS 기반)<br>
-│   │   ├── chatbot_views.py           # 챗봇 API<br>
-│   │   ├── chart_views.py             # 차트 데이터 API<br>
-│   │   ├── main_views.py              # 메인 페이지 API<br>
-</pre>
-
-# ■ How to Test
-  1. 웹 서버 접속 : http://127.0.0.1:5000
-  2. 성분 입력 or Chatbot 성분 검색 ex) 토코페롤, 리모넨, 판테놀
-  3. 추천 결과 보기 선택 or 초기화
-  4. 검색 성능 지료, 평균 유사도 및 성분 분포 차트 확인(선택사항)
