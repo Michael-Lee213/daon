@@ -54,9 +54,6 @@
 
 ## ■ 화면 구성
 
-### ▪ 상품 상세 페이지  
-![상세 페이지](https://github.com/user-attachments/assets/a4d76a83-8f6b-4891-b861-52cedb671438)
-
 ### ▪ 장바구니 페이지  
 ![장바구니 페이지](https://github.com/user-attachments/assets/2d90fc35-6409-4d4e-8327-f7464d0fe106)
 
