@@ -35,8 +35,8 @@
   2. 프로젝트 진행 관리
   2. 사용 기술 스택 (Stacks)
   3. 화면 구성
-  4. Data 및 사용자 흐름도
-  5. Architecture
+  4. ER Diagram
+  5. Use case Diagram
 
 # ■ 프로젝트 진행 관리 
 <div>
