@@ -30,7 +30,7 @@
   </tbody>
 </table>
 
-# ■ 목차 📚
+# ■ 목차 
   1. 소개
   2. 프로젝트 진행 관리
   2. 사용 기술 스택 (Stacks)
@@ -38,13 +38,13 @@
   4. Data 및 사용자 흐름도
   5. Architecture
 
-# ■ 프로젝트 진행 관리 📊
+# ■ 프로젝트 진행 관리 
 <div>
   <img src="cos/static/images/Untitled_diagram_1.webp" style="width:600px; height:400px; border-radius: 5px;">
 </div>
 <br>
 
-# ■ Stacks 🛠️
+# ■ Stacks 
 <div style="text-align: left;">
 <h3> ▪ Environment</h3>
 <br>
@@ -95,7 +95,7 @@
 <br>
 <br>
 
-# ■ 화면 구성 📱
+# ■ 화면 구성 
 
 <div style="display: flex; flex-direction: column; gap: 20px;">
   <h3> ▪ 메인 화면 페이지</h3>
