@@ -60,7 +60,7 @@
 ---
 
 ## ■ ER Diagram  
-![ER Diagram](https://github.com/user-attachments/assets/5df864e9-ffbd-4f08-bad8-929d116969a9)
+![image](https://github.com/user-attachments/assets/10ffc15d-8f54-4436-9b55-d9d4f5f952ce)
 
 ---
 
