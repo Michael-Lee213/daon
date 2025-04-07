@@ -45,54 +45,8 @@
 <br>
 
 # ■ Stacks 
-<div style="text-align: left;">
-<h3> ▪ Environment</h3>
-<br>
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-<img src="https://img.shields.io/badge/visual studio code-008FC7?style=for-the-badge&logo=visual studio code&logoColor=white">
-<img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-</div>
+![image](https://github.com/user-attachments/assets/49acdfbd-33a6-41b8-a9c9-83a5575f6c94)
 
-<h3> ▪ Frontend</h3>
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/bootstrap 5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white">
-<img src="https://img.shields.io/badge/plotly.js-3b4cc0?style=for-the-badge&logo=plotly&logoColor=white">
-<img src="https://img.shields.io/badge/ajax (jQuery)-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-</div>
-
-<h3> ▪ Backend</h3>
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-<img src="https://img.shields.io/badge/langchain-00A6FF?style=for-the-badge&logo=langchain&logoColor=white">
-</div>
-
-<h3> ▪ Database & Storage</h3>
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-<img src="https://img.shields.io/badge/faiss vector DB-008000?style=for-the-badge&logo=faiss&logoColor=white">
-</div>
-
-<h3> ▪ Machine Learning & AI</h3>
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-<img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white">
-<img src="https://img.shields.io/badge/scikit learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-<img src="https://img.shields.io/badge/word2vec-FFCC00?style=for-the-badge&logo=google&logoColor=black">
-<img src="https://img.shields.io/badge/faiss-008000?style=for-the-badge&logo=facebook&logoColor=white">
-<img src="https://img.shields.io/badge/HuggingFaceEmbeddings-FF9900?style=for-the-badge&logo=huggingface&logoColor=black">
-<img src="https://img.shields.io/badge/cosine similarity-663399?style=for-the-badge&logo=mathworks&logoColor=white">
-<img src="https://img.shields.io/badge/transformers-DC143C?style=for-the-badge&logo=ai&logoColor=white">
-<img src="https://img.shields.io/badge/genai-FF66CC?style=for-the-badge&logo=google&logoColor=white">
-<img src="https://img.shields.io/badge/youtube api-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-</div>
-<br>
 <br>
 
 # ■ 화면 구성 
