@@ -1,5 +1,5 @@
 # ■ 프로젝트명: daon
-  <img src="https://github.com/Michael-Lee213/daon/blob/main/6920933.jpg?raw=true" width="720"/>
+  <img src="https://github.com/Michael-Lee213/daon/blob/main/6920933.jpg?raw=true" width="700"/>
 
 # ■ Daon 데이터 분석 도서 서비스
 
