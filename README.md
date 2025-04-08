@@ -58,6 +58,8 @@
 ### ▪ 장바구니 페이지  
 ![장바구니 페이지](https://github.com/user-attachments/assets/2d90fc35-6409-4d4e-8327-f7464d0fe106)
 
+- 장바구니 담기 및 리스트, 수량 수정
+
 
 ## ■ ER Diagram
 
