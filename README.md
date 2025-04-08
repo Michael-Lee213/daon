@@ -46,12 +46,7 @@
 ## ■ 프로젝트 진행 관리  
 ![image](https://github.com/user-attachments/assets/e711f654-7cd1-40d8-8636-98c97f8ba907)
 
-
-
-## ■ 사용 기술 스택 (Stacks)  
-![기술 스택](https://github.com/user-attachments/assets/49acdfbd-33a6-41b8-a9c9-83a5575f6c94)
-
-## Skill & Tools
+## ■  Skill & Tools
 
 ### ▪ Language
 <p>
