@@ -59,11 +59,25 @@
 ![장바구니 페이지](https://github.com/user-attachments/assets/2d90fc35-6409-4d4e-8327-f7464d0fe106)
 
 
-## ■ ER Diagram  
-![image](https://github.com/user-attachments/assets/5826a425-b000-4fc8-8931-5c53d9f7935d)
+## ER Diagram
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kim-Mi-Gyeong/daon_mini/main/er diagram.png" width="500"/>
+</p>
+
+- **user**: 사용자 정보 (id, username, password, email 등)
+- **products**: 도서 정보 (id, 이름, 가격, 설명, 이미지)
+- **cart**: 장바구니 정보 (user 연결, 제품 연결, 수량, 가격)
 
 
+## Use Case Diagram
 
-## ■ Use Case Diagram  
-![image](https://github.com/user-attachments/assets/a39fbbc9-380b-461c-91b2-e7d7ae742e86)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kim-Mi-Gyeong/daon_mini/main/use case diagram.png" width="720"/>
+</p>
+
+- 비회원은 회원가입, 상품 목록 조회, 검색, 상세 확인이 가능
+- 회원은 로그인 후 장바구니 담기, 수량 수정 기능 제공
+- 관리자는 상품, 회원, 장바구니 전체를 통합 관리
+
 
