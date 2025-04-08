@@ -59,7 +59,7 @@
 ![장바구니 페이지](https://github.com/user-attachments/assets/2d90fc35-6409-4d4e-8327-f7464d0fe106)
 
 
-## ER Diagram
+## ■ ER Diagram
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Kim-Mi-Gyeong/daon_mini/main/er diagram.png" width="500"/>
@@ -70,7 +70,7 @@
 - **cart**: 장바구니 정보 (user 연결, 제품 연결, 수량, 가격)
 
 
-## Use Case Diagram
+## ■ Use Case Diagram
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Kim-Mi-Gyeong/daon_mini/main/use case diagram.png" width="720"/>
