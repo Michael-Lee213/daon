@@ -61,9 +61,7 @@
 
 ## ■ ER Diagram
 
-<p align="center">
   <img src="https://raw.githubusercontent.com/Kim-Mi-Gyeong/daon_mini/main/er diagram.png" width="500"/>
-</p>
 
 - **user**: 사용자 정보 (id, username, password, email 등)
 - **products**: 도서 정보 (id, 이름, 가격, 설명, 이미지)
@@ -72,9 +70,7 @@
 
 ## ■ Use Case Diagram
 
-<p align="center">
   <img src="https://raw.githubusercontent.com/Kim-Mi-Gyeong/daon_mini/main/use case diagram.png" width="720"/>
-</p>
 
 - 비회원은 회원가입, 상품 목록 조회, 검색, 상세 확인이 가능
 - 회원은 로그인 후 장바구니 담기, 수량 수정 기능 제공
